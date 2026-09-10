@@ -1,0 +1,7 @@
+numpy>=1.24
+Pillow>=9.5
+torch>=2.0
+torchvision>=0.15
+tqdm>=4.65
+matplotlib>=3.7
+opencv-python>=4.8
