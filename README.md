@@ -10,10 +10,6 @@ contains the TCDG fusion backbone, two monotonic reliability gates
 (MICG-1/MICG-2), source-aware Hunt chroma adaptation (SAHCA), and deterministic
 ICh refinement.
 
-> **Weights are intentionally not included.** Dataset images, checkpoints,
-> experiment caches, paper sources, reviewer files, and generated results are
-> excluded from this release directory.
-
 ## Repository layout
 
 ```text
